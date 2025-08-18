@@ -30,3 +30,4 @@ Model checkpoints will be saved in `./saved_models/`.
 Bayu Adhi Tama, Mansa Krishna, Homayra Alam, Mostafa Cham, Omar Faruque, Gong Cheng, Jianwu Wang, Mathieu Morlighem, Vandana Janeja.  
 **DeepTopoNet: A Framework for Subglacial Topography Estimation on the Greenland Ice Sheets.**  
 arXiv:2505.23980 [cs.CV], 2025. [https://doi.org/10.48550/arXiv.2505.23980](https://doi.org/10.48550/arXiv.2505.23980)
+(accepted as a Full Application Paper Track at **SIGSPATIAL 2025**)

@@ -4,7 +4,8 @@ This repository provides a PyTorch-based implementation of **DeepTopoNet**, a co
 A sample of radar data and BedMachine data is shown below.
 
 <p align="center">
-  <img src="sample_images/sample_radar.png" alt="Radar data" width="400">
+  <img src="sample_images/sample_radar.png" alt="Radar data" width="200">
+  <img src="sample_images/sample_bedmachine.png" alt="Radar data" width="200">
 </p>
 
 
